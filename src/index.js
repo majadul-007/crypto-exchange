@@ -1,5 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min';
+
+
+// import $ from '../node_modules/jquery';
+// import Popper from '../node_modules/popper.js';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
